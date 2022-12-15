@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-machine-drum/static/css/main.d897ad40.css",
-    "main.js": "/react-machine-drum/static/js/main.6ee1d3b9.js",
+    "main.js": "/react-machine-drum/static/js/main.81dd5ebc.js",
     "static/js/787.9bebe1e4.chunk.js": "/react-machine-drum/static/js/787.9bebe1e4.chunk.js",
     "static/media/snare.wav": "/react-machine-drum/static/media/snare.dade12b848e2824da1fd.wav",
     "static/media/tom4.wav": "/react-machine-drum/static/media/tom4.53c88518a99535a380e6.wav",
@@ -11,11 +11,11 @@
     "static/media/tom3.wav": "/react-machine-drum/static/media/tom3.5998756743e0eb65b1b0.wav",
     "index.html": "/react-machine-drum/index.html",
     "main.d897ad40.css.map": "/react-machine-drum/static/css/main.d897ad40.css.map",
-    "main.6ee1d3b9.js.map": "/react-machine-drum/static/js/main.6ee1d3b9.js.map",
+    "main.81dd5ebc.js.map": "/react-machine-drum/static/js/main.81dd5ebc.js.map",
     "787.9bebe1e4.chunk.js.map": "/react-machine-drum/static/js/787.9bebe1e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d897ad40.css",
-    "static/js/main.6ee1d3b9.js"
+    "static/js/main.81dd5ebc.js"
   ]
 }
