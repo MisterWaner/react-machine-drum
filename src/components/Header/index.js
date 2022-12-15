@@ -8,13 +8,13 @@ export default function Header() {
         <Wrapper>
             <h1>Our super music app</h1>
             <nav>
-                <Link to="/">
-                    <MenuEl isCurrentPage={location.pathname === "/"}>
+                <Link to="/react-machine-drum/">
+                    <MenuEl isCurrentPage={location.pathname === "/react-machine-drum/"}>
                         Home
                     </MenuEl>
                 </Link>
-                <Link to="/about">
-                    <MenuEl isCurrentPage={location.pathname === "/about"}>
+                <Link to="/react-machine-drum/about">
+                    <MenuEl isCurrentPage={location.pathname === "/react-machine-drum/about"}>
                         About
                     </MenuEl>
                 </Link>

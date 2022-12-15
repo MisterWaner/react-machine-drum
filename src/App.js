@@ -12,8 +12,8 @@ export default function App() {
     <Router>
       <Layout>
         <Routes>
-          <Route element={<About/>} path="/about" />
-          <Route element={<Home/>} path="/" />
+          <Route element={<About/>} path="/react-machine-drum/about" />
+          <Route element={<Home/>} path="/react-machine-drum/" />
         </Routes>
       </Layout>
     </Router>
